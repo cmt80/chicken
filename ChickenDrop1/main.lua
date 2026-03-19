@@ -1,6 +1,6 @@
 --game where animals fall from top player clicks
 --before hit the bottom
---game ends when animal hits bottom
+--game ends when animal hits bottom.
 
 function love.load()
   chickenFace = love.graphics.newImage("chicken.png")
